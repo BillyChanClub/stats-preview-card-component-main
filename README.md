@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://billychanclub.github.io/stats-preview-card-component-main/index.html)
+- Solution URL: [Solution Page In FEM Website](https://www.frontendmentor.io/solutions/responsive-stats-page-using-flexbox-scss-E3p5mUQBI)
+- Live Site URL: [Live Site](https://billychanclub.github.io/stats-preview-card-component-main/)
 
 ## My process
 
